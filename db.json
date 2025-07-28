@@ -2,53 +2,43 @@
   "questions": [
     {
       "id": 1,
-      "question": "The cafeteria is clean and hygienic.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "The cafeteria is clean and hygienic."
     },
     {
       "id": 2,
-      "question": "The variety of food offered is satisfactory.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "The variety of food offered is satisfactory."
     },
     {
       "id": 3,
-      "question": "The taste of the meals meets my expectations.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "The taste of the meals meets my expectations."
     },
     {
       "id": 4,
-      "question": "Food is served at the proper temperature.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "Food is served at the proper temperature."
     },
     {
       "id": 5,
-      "question": "The cafeteria staff is polite and helpful.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "The cafeteria staff is polite and helpful."
     },
     {
       "id": 6,
-      "question": "The price of the meals is reasonable.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "The price of the meals is reasonable."
     },
     {
       "id": 7,
-      "question": "Waiting time to receive food is acceptable.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "Waiting time to receive food is acceptable."
     },
     {
       "id": 8,
-      "question": "The cafeteria environment is comfortable for eating.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "The cafeteria environment is comfortable for eating."
     },
     {
       "id": 9,
-      "question": "Nutritional balance of meals is sufficient.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "Nutritional balance of meals is sufficient."
     },
     {
       "id": 10,
-      "question": "I am overall satisfied with the cafeteria services.",
-      "options": ["1", "2", "3", "4", "5"]
+      "question": "I am overall satisfied with the cafeteria services."
     }
   ]
 }
