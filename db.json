@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The cafeteria is clean and hygienic.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 2,
+      "question": "The variety of food offered is satisfactory.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 3,
+      "question": "The taste of the meals meets my expectations.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 4,
+      "question": "Food is served at the proper temperature.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 5,
+      "question": "The cafeteria staff is polite and helpful.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 6,
+      "question": "The price of the meals is reasonable.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 7,
+      "question": "Waiting time to receive food is acceptable.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 8,
+      "question": "The cafeteria environment is comfortable for eating.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 9,
+      "question": "Nutritional balance of meals is sufficient.",
+      "options": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 10,
+      "question": "I am overall satisfied with the cafeteria services.",
+      "options": ["1", "2", "3", "4", "5"]
+    }
+  ]
+}
